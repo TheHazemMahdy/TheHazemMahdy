@@ -18,7 +18,8 @@
 </a>
 
 </div>
-
+<br>
+<br>
 <p align="center">
   <img src="banner.png" alt="Hazem Mahdy Banner" width="100%" />
 </p>
