@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&color=3B82F6&center=true&vCenter=true&width=850&lines=AI+Engineer;Flutter+Developer;Machine+Learning+Engineer;Data+Science+Enthusiast;Building+Production-Ready+Software;Always+Learning.+Always+Building."/>
 
-### AI Engineer • Flutter Developer • Machine Learning
+### AI Engineer • Flutter Developer • Data Scientist
 
 <a href="https://linkedin.com/in/hazem-mahdy-4545132b7">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
