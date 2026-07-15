@@ -21,7 +21,7 @@
 <br>
 <br>
 <p align="center">
-  <img src="banner.png" alt="Hazem Mahdy Banner" width="100%" />
+ <img src="animated_banner.svg" width="100%" />
 </p>
 
 ---
